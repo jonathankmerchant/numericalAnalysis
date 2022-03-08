@@ -1,2 +1,2 @@
-# numericalAnalysis
+# Numerical Analysis
 Numerical Analysis work
